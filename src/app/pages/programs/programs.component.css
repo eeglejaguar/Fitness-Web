@@ -1,0 +1,14 @@
+.programs {
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+
+.programs ul {
+  list-style-type: square;
+  padding-left: 1.5rem;
+  font-size: 1.1rem;
+}
+
+.programs li {
+  margin-bottom: 10px;
+}
